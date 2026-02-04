@@ -1,0 +1,7 @@
+{
+  "name": "DroppiEnvio - Logística Regional",
+  "description": "Plataforma moderna para el envío de paquetes desde San José del Guaviare a toda Colombia con integración directa de mensajería.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
